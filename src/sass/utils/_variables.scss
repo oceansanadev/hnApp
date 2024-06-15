@@ -1,0 +1,25 @@
+$primary-main: #ff6600;
+$primary-light: lighten($primary-main, 15%);
+$primary-dark: darken($primary-main, 15%);
+
+$error-main: #dc3545;
+$error-light: lighten($error-main, 15%);
+$error-dark: darken($error-main, 15%);
+
+$warning-main: #ffc107;
+$warning-light: lighten($warning-main, 15%);
+$warning-dark: darken($warning-main, 15%);
+
+$success-main: #28a745;
+$success-light: lighten($success-main, 15%);
+$success-dark: darken($success-main, 15%);
+
+$grey-100: #f8f9fa;
+$grey-200: #e9ecef;
+$grey-300: #dee2e6;
+$grey-400: #ced4da;
+$grey-500: #adb5bd;
+$grey-600: #6c757d;
+$grey-700: #495057;
+$grey-800: #343a40;
+$grey-900: #212529;

@@ -1,0 +1,11 @@
+@use "../../sass/utils//variables" as *;
+
+.container {
+  box-shadow: 0 0 5px 1px $grey-400;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}

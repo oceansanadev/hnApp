@@ -1,0 +1,6 @@
+@use "../../sass/utils/variables" as *;
+
+.card {
+  padding: 1rem;
+  box-shadow: 0 0 5px 1px $grey-400;
+}
